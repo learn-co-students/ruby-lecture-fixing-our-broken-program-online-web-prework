@@ -1,4 +1,4 @@
-puts "Hello World"
+gputs "Hello World!"
 
 # Your entire program should read:
 # puts "Hello World!"
