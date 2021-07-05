@@ -6,4 +6,3 @@ describe 'A working program' do
     }.to_not raise_error
   end
 
-end
